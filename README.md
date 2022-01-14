@@ -1,1 +1,1 @@
-David Zhong is an aspiring data scientist, amateur comedian, Indian food enthusiast based in London, the United Kingdom. Artificial Intelligence is changing humanities. Then he made the decision to see if he can be parts of the big movement.
+Master's graduate from Queen Mary University of London, studied Data Science with a focus on Applied Machine Learning. Worked as a research associate at CREATION for 1 year+ after graduation. I completed 600+ hours of coursework at Jovian Data Science Bootcamp while working as an associate consultant at CREATION.
